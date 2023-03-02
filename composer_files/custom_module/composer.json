@@ -1,0 +1,6 @@
+{
+  "name": "drupal/custom_module",
+  "type": "drupal-module",
+  "description": "Composer file for custom module not hosted in drupal.org",
+  "keywords": ["Drupal"]
+}

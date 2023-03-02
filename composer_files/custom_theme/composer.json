@@ -1,0 +1,6 @@
+{
+  "name": "drupal/custom_theme",
+  "type": "drupal-theme",
+  "description": "Composer file for custom theme.",
+  "keywords": ["Drupal"]
+}
