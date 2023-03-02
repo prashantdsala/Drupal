@@ -9,7 +9,7 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 -----------
 
- * This module provides custom render element type "entity". Compatible with Drupal 8, 9 and 10.
+ * This module provides custom controller with custom route. Compatible with Drupal 8, 9 and 10.
 
 REQUIREMENTS
 ------------
@@ -23,7 +23,7 @@ INSTALLATION
 
  * To enable the module go to Administer > Modules, and enable "Custom Render Element".
 
- * Clear the site cache and visit the url "your-site-url/custom-render-element" and you will see the node rendered from custom element. You can change the node id in the CustomRenderElementController.php file.
+ * Clear the site cache and visit the url "your-site-url/custom-controller/example".
 
 CONFIGURATION
 -------------
@@ -42,5 +42,3 @@ Github Drupal Repository:
 
 LinkedIn profile
  * https://in.linkedin.com/in/prashant-chauhan-dharamshala
- 
-
