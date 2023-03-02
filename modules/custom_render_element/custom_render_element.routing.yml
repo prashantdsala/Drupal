@@ -1,0 +1,7 @@
+custom_render_element.example:
+  path: '/custom-render-element'
+  defaults:
+    _title: 'Custom Render Element'
+    _controller: '\Drupal\custom_render_element\Controller\CustomRenderElementController::build'
+  requirements:
+    _permission: 'access content'
