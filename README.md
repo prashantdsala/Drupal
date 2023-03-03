@@ -14,6 +14,14 @@ Github Drupal Repository:
 LinkedIn profile
  * https://in.linkedin.com/in/prashant-chauhan-dharamshala
 
+Contact me:
+
+Skype ID:
+ * p1989chauhan
+
+Email:
+ * p1989chauhan@gmail.com
+
 Found this helpful:
 ===================
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/prashantdsala)
