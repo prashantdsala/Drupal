@@ -1,0 +1,4 @@
+custom_field_example:
+  css:
+    component:
+      css/custom-field-example-widget.css: {}

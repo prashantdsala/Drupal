@@ -1,0 +1,46 @@
+# Field storage.
+field.storage_settings.custom_field_example:
+  type: mapping
+  label: Example storage settings
+  mapping:
+    foo:
+      type: string
+      label: Foo
+# Field instance.
+field.field_settings.custom_field_example:
+  type: mapping
+  label: Example field settings
+  mapping:
+    bar:
+      type: string
+      label: Bar
+# Default value.
+field.value.custom_field_example:
+  type: mapping
+  label: Default value
+  mapping:
+    value_1:
+      type: integer
+      label: Value 1
+    value_2:
+      type: string
+      label: Value 2
+    value_3:
+      type: email
+      label: Value 3
+# Field widget.
+field.widget.settings.custom_field_example:
+  type: mapping
+  label: Example widget settings
+  mapping:
+    foo:
+      type: string
+      label: Foo
+# Field formatter.
+field.formatter.settings.custom_field_example_default:
+  type: mapping
+  label: Example formatter settings
+  mapping:
+    foo:
+      type: string
+      label: Foo
