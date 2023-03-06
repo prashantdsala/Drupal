@@ -1,0 +1,6 @@
+custom_config_form.settings:
+  title: Custom Settings Page
+  description: Custom settings page
+  parent: system.admin_config_system
+  route_name: custom_config_form.settings
+  weight: 10
