@@ -1,0 +1,5 @@
+name: Custom Install
+type: module
+description: Example to demonstrate the usage of install file for a module.
+package: Custom
+core_version_requirement: ^8 || ^9 || ^10

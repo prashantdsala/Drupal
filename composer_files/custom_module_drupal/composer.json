@@ -1,0 +1,24 @@
+{
+  "name": "drupal/custom_module_drupal",
+  "type": "drupal-module",
+  "description": "Composer file for custom module hosted on drupal.org.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/custom_module_drupal",
+  "authors": [
+    {
+      "name": "Your name here",
+      "homepage": "https://www.drupal.org/u/your_name_here",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Contributors",
+      "homepage": "https://www.drupal.org/node/NID/committers",
+      "role": "Contributors"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/custom_module_drupal",
+    "source": "http://cgit.drupalcode.org/custom_module_drupal"
+  }
+}

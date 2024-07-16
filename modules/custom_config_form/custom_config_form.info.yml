@@ -1,0 +1,5 @@
+name: Custom Config Form
+description: This module illustrates how to create your own config/settings form.
+core_version_requirement: ^8 || ^9 || ^10
+type: module
+configure: custom_config_form.settings

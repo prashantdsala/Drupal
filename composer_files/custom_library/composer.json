@@ -1,0 +1,6 @@
+{
+  "name": "drupal/custom_library",
+  "type": "drupal-library",
+  "description": "Composer file for custom library.",
+  "keywords": ["Drupal"]
+}
