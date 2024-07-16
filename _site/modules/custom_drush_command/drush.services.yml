@@ -1,5 +1,0 @@
-services:
-  custom_drush_command.commands:
-    class: \Drupal\custom_drush_command\Commands\CustomDrushCommandCommands
-    tags:
-      - { name: drush.command }
