@@ -1,0 +1,11 @@
+{
+    "name": "org/custom_drush_command",
+    "type": "drupal-drush",
+    "extra": {
+        "drush": {
+            "services": {
+                "drush.services.yml": "^10"
+            }
+        }
+    }
+}

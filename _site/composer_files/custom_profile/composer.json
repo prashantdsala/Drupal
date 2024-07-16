@@ -1,0 +1,6 @@
+{
+  "name": "drupal/custom_profile",
+  "type": "drupal-profile",
+  "description": "Composer file for custom Drupal profile.",
+  "keywords": ["Drupal"]
+}

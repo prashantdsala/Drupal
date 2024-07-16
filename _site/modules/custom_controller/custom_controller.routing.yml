@@ -1,0 +1,7 @@
+custom_controller.example:
+  path: '/custom-controller/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\custom_controller\Controller\CustomControllerController::build'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,4 @@
+name: Custom Drush Command
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+description: This module shows how to write your own custom drush commands.
