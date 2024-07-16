@@ -1,10 +1,6 @@
-title: your document title
-description: your document description
+title: Drupal
+description: Drupal docs
 theme: just-the-docs
-logo: "your_logo_path"
-favicon_ico: "your_icon_path"
-
-url: your_repo_url
-
+url: https://github.com/prashantdsala/Drupal/
 aux_links:
-  Repository: your_repo_url
+  Repository: https://github.com/prashantdsala/Drupal/
